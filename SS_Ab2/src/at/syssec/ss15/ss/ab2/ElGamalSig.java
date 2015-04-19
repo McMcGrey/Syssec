@@ -31,8 +31,6 @@ public interface ElGamalSig {
 	 * 
 	 * @param p
 	 *            ... Modul des ElGamal-Verfahrens
-	 * @param g
-	 *            ... Generator
 	 * @return geheimer Schlüsselteil
 	 */
 	public BigInteger generatePrivatePart(BigInteger p);
