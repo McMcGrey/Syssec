@@ -43,3 +43,6 @@ Temporary Items
 .apdisk
 *.log
 .metadata
+.idea
+*.class
+*.iml
